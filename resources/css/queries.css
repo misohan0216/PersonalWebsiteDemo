@@ -89,13 +89,13 @@
     }
 }
 
-@media screen and (max-width: 252px){
+@media screen and (max-width: 414px){
 
     h1{
         font-size: 2rem;
     }
     
     .hero-text-box span{
-        font-size: 1.2rem;
+        font-size: .8rem;
     }
 }
