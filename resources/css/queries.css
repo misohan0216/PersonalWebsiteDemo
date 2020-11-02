@@ -88,3 +88,14 @@
         grid-template-columns: none;
     }
 }
+
+@media screen and (max-width: 480px){
+
+    h1{
+        font-size: 2rem;
+    }
+    
+    .hero-text-box span{
+        font-size: 1.2rem;
+    }
+}
