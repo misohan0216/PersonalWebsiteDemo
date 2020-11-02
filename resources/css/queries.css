@@ -89,7 +89,7 @@
     }
 }
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 334px){
 
     h1{
         font-size: 2rem;
